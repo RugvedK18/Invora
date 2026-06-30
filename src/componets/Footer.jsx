@@ -13,8 +13,6 @@ const Footer = () => {
             Metro Tower, Floor 15
           </p>
         </div>
-
-
         
 
         <div className="md:col-span-2 space-y-4">

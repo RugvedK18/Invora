@@ -14,7 +14,6 @@ const Footer = () => {
           </p>
         </div>
         
-
         <div className="md:col-span-2 space-y-4">
           <h4 className="text-[10px] uppercase tracking-widest text-black/50 font-bold mb-6">Menu</h4>
           <ul className="space-y-3 text-[13px] font-bold uppercase">
